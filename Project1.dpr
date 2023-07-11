@@ -1,4 +1,4 @@
-program Siswa;
+program Project1;
 
 uses
   Forms,
